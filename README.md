@@ -1,2 +1,2 @@
 # Lesson2
-create github account
+creating github account
